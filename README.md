@@ -1,6 +1,24 @@
 # Expansion-Module-V1
+## Messaging Structure
 
-## Data Composition of Message
+| Message Structure||
+|:---          |:---                          |
+|Base CAN ID:  |                              |
+|Endianness    | Big Endian                   |
+|Message Length| 8 Bytes                      |
+|Byte          | Description of Contents      |
+|0             | Brake Temp [0-7]             |
+|1             | Brake Temp [8-9] / DPos[0-5] | 
+|2             | DPos [6-9] / SlipAngle [0-3] |
+|3             | SlipAngle [4-9] / Aux [0-1]  |
+|4             | Aux [2-9]                    |
+|5             | Firmware Version             |
+|6             | Compound ID                  |
+|7             | Counter                      |
+
+
+
+## Data Composition
 |Data Name  |  Length(bits)  |  Position
 |:---:      |:---:     |:---:
 |Brake Temp. |  10   |  0-9
@@ -12,7 +30,7 @@
 |Counter    |  8    |  56-63
 
 
-## Analog Sensor Table:
+## Analog Sensor Wiring Table:
 |Sensor Name |  PIN      
 |:---:       |:---:
 | Brake Temp. | ADC0
