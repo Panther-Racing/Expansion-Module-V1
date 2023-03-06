@@ -3,7 +3,7 @@
 
 | Message Structure||
 |:---          |:---                          |
-|Base CAN ID:  |                              |
+|Base CAN ID:  | 0xF0                         |
 |Endianness    | Big Endian                   |
 |Message Length| 8 Bytes                      |
 |Byte          | Description of Contents      |

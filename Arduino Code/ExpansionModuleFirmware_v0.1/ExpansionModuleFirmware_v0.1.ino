@@ -1,5 +1,5 @@
 /* CAN Expanson Module Code
- *  Version 0.00
+ *  Version 0.1
  * Made by Patrick Murphy
  *
  * Repository https://github.com/Panther-Racing/Expansion-Module-V1
@@ -61,11 +61,11 @@ MCP_CAN CAN0(10);     // Set CS to pin 10
 
   //8 bit values
   uint8_t compound=0x00; 
-  uint8_t firmwareversion= 0x00; //Firmware version
+  uint8_t firmwareversion= 0x01; //Firmware version
   uint8_t counter=0x00; // coms loss check
 
 
-  uint8_t CAN_ID  = 0xE0;// Device CAN ID
+  uint8_t CAN_ID  = 0xF0;// Device CAN ID
   
 void setup()
 {
