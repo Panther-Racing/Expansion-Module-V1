@@ -27,7 +27,7 @@
 |Aux        |  10   |  30-39   
 |Firm. Vers  |  8    |  40-47
 |Compound   |  8    |  48-55
-|Counter    |  8    |  56-63
+|Counter    |  4    |  56-59
 
 
 ## Analog Sensor Wiring Table:
