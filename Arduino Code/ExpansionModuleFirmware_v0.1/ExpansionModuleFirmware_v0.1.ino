@@ -65,14 +65,21 @@ MCP_CAN CAN0(10);     // Set CS to pin 10
   uint8_t counter=0x00; // coms loss check
 
 
-  uint8_t CAN_ID  = 0xF0;// Device CAN ID
+  uint8_t CAN_ID  = 0xf0;// Device CAN ID
+
+
+  unsigned long previousMillis = 0;  // will store last time LED was updated
+
+  // constants won't change:
+  const long interval = 20;  // interval at which to blink (milliseconds)
+
   
 void setup()
 {
   Serial.begin(115200);
 
   // Initialize MCP2515 running at 16MHz with a baudrate of 500kb/s and the masks and filters disabled.
-  if(CAN0.begin(MCP_ANY, CAN_500KBPS, MCP_16MHZ) == CAN_OK) Serial.println("MCP2515 Initialized Successfully!");
+  if(CAN0.begin(MCP_ANY, CAN_1000KBPS, MCP_8MHZ) == CAN_OK) Serial.println("MCP2515 Initialized Successfully!");
   else Serial.println("Error Initializing MCP2515...");
 
   CAN0.setMode(MCP_NORMAL);   // Change to normal mode to allow messages to be transmitted
@@ -86,8 +93,9 @@ void loop()
   BrkTmp=analogRead(A0);
   DPos=analogRead(A1);
   SlpAgl=analogRead(A2);
-  
-  Aux=0b1100000011;
+
+
+  Aux=0b1100000000;
   compound=0xFF; 
 
   //Debuging lines
@@ -96,28 +104,44 @@ void loop()
   //Serial.println(SlpAgl,BIN);
       
   //Formatting data so 10 bit and 8 bits are stored in segments of 8 bits for SPI transfer
-  data[0] = BrkTmp & 0xFF;//byte 1
-  data[1] = (BrkTmp>>8 & 0xFF) or (DPos<<2 & 0xFF);//byte 2
-  data[2] = (DPos>>6 & 0xFF) or (SlpAgl<<4 & 0xFF);//byte 3
-  data[3] = (SlpAgl>>4 & 0xFF) or (Aux<<6 & 0xFF);//byte 4
-  data[4] = (Aux>>2 & 0xFF);//byte 5
+  data[0] = (BrkTmp>>2);//byte 1
+  data[1] = ((BrkTmp<<6 & 0xc0) | (DPos>>4 & 0x3F));//byte 2
+  data[2] = ((DPos<<4 & 0xF0) | (SlpAgl>>6 & 0x0F));//byte 3
+  data[3] = ((SlpAgl<<2 & 0xFc) | (Aux>>8 & 0x03));//byte 4
+  data[4] = Aux;//byte 5
   data[5] = firmwareversion;
   data[6] = compound;
   data[7] = counter; 
-  
-  counter=counter+1;// increment counter everytime we send message so we can observe data loss occurence, rolls over at 2^8-1 to 0
 
   //Sending data to MCP25625 chip
   // Standard can frame with 8bytes of data
-  byte sndStat = CAN0.sendMsgBuf(CAN_ID, 0, 8, data);
-  if(sndStat == CAN_OK){
-    Serial.println("Message Sent Successfully!");
-  } else {
-    Serial.println("Error Sending Message...");
+  unsigned long currentMillis = millis();
+  if (currentMillis - previousMillis >= interval) {
+    // save the last time you blinked the LED
+    previousMillis = currentMillis;
+    //Serial.println((DPos>>4 & 0x3F),BIN);
+     for (int i=0; i<8; i++)
+      {
+        //Serial.println(data[i],HEX);
+      }
+    if (counter<15){
+    counter=counter+1;// increment counter everytime we send message so we can observe data loss occurence, rolls over at 2^8-1 to 0
+    }else{
+    counter=0;
+    }
+    byte sndStat = CAN0.sendMsgBuf(CAN_ID, 0, 8, data);
+    if(sndStat == CAN_OK)
+    {
+      Serial.println("Message Sent Successfully!");
+    } 
+    else
+    {
+      Serial.println("Error Sending Message...");
+    }
+  //delay(50);   // send data per 100ms
   }
-  delay(100);   // send data per 100ms
+  
 }
-
 /*********************************************************************************************************
   END FILE
 *********************************************************************************************************/
