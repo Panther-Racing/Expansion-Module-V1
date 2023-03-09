@@ -9,39 +9,14 @@
  * 
  * To Do: 
  *  Parametric BIT shifting function for formatting data lengths for adaptability to other applications
- *  AUX input specification
- *  Compound input specification
- * 
- * Information Specifics:
- * CAN info 64bit data max, 11bit ID 
- * Expected CAN data output Table:
- *  Data Name   |  Length  |  Position
- *  ------------|----------|------------
- *   brake temp |  10 bit  |  0-9
- *   dpos       |  10 bit  |  10-19
- *   slip angle |  10 bit  |  20-29
- *   aux        |  10 bit  |  30-39   
- *   firm vers  |  8  bit  |  40-47
- *   compound   |  8  bit  |  48-55S
- *   counter    |  8  bit  |  56-63
- *  ------------|----------|------------
- * 
- *  Analog Sensor Table:
- *  Sensor Name |  PIN      
- *  ------------|----------
- *   brake temp | ADC0
- *   dpos       | ADC1
- *   slip angle | ADC2
- *   aux        | 
- *   Compound   | 
- *  ------------|----------
+ *  AUX setup
+ *  Compound value
  * 
  *
  * Program Notes:
  *  CS pin is technically variable to setup
  *  CAN bus rate is variable to Setup
  *  MCP Clock is variable to setup
- *  
  *  Sensor Wiring is variable to setup
  *
  */
@@ -61,7 +36,9 @@ MCP_CAN CAN0(10);     // Set CS to pin 10
 
   //8 bit values
   uint8_t compound=0x00; 
-  uint8_t firmwareversion= 0x01; //Firmware version
+  uint8_t firmwareversion= 0x0A; //Firmware version
+  // because firmware version is represented as Vxx.xx, the firmware version needs to be 100 times the value
+  // due to unsigned int, ie v0.10 ==> firmware version=10 => 0b00001010 ==> 0x0A
   uint8_t counter=0x00; // coms loss check
 
 
@@ -96,7 +73,7 @@ void loop()
 
 
   Aux=0b1100000000;
-  compound=0xFF; 
+  compound=0x00; 
 
   //Debuging lines
   //Serial.println(BrkTmp,BIN);
