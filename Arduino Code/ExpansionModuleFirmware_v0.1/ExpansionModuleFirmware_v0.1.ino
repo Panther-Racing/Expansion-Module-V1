@@ -9,7 +9,6 @@
  * 
  * To Do: 
  *  Parametric BIT shifting function for formatting data lengths for adaptability to other applications
- *  AUX setup
  *  Compound value
  * 
  *
@@ -53,6 +52,11 @@ MCP_CAN CAN0(10);     // Set CS to pin 10
   
 void setup()
 {
+  pinMode(A0,INPUT_PULLUP);
+  pinMode(A1,INPUT_PULLUP);
+  pinMode(A2,INPUT_PULLUP);
+  pinMode(A3,INPUT_PULLUP);
+  
   Serial.begin(115200);
 
   // Initialize MCP2515 running at 16MHz with a baudrate of 500kb/s and the masks and filters disabled.
@@ -70,15 +74,24 @@ void loop()
   BrkTmp=analogRead(A0);
   DPos=analogRead(A1);
   SlpAgl=analogRead(A2);
+  Aux=analogRead(A3);
+  
+  // debugging lines
+  /*
+  Serial.println("BrkTmp");  
+  Serial.println(BrkTmp);
 
+  Serial.println("DPOS");
+  Serial.println(DPos);
 
-  Aux=0b1100000000;
-  compound=0x00; 
+  Serial.println("SLPAGL");
+  Serial.println(SlpAgl);
 
-  //Debuging lines
-  //Serial.println(BrkTmp,BIN);
-  //Serial.println(DPos,BIN);
-  //Serial.println(SlpAgl,BIN);
+  Serial.println("AUX");
+  Serial.println(Aux);
+  delay(500);
+  */
+
       
   //Formatting data so 10 bit and 8 bits are stored in segments of 8 bits for SPI transfer
   data[0] = (BrkTmp>>2);//byte 1
