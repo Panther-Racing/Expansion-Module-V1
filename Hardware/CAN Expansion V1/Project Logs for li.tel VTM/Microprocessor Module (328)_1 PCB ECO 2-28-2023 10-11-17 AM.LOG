@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=CAN_TX Pin=CAN Controller-1
+Removed Pin From Net: NetName=CAN_RX Pin=CAN Controller-2
+Removed Pin From Net: NetName=GND Pin=CAN Controller-10
+Removed Pin From Net: NetName=CAN_INT Pin=CAN Controller-13
+Removed Pin From Net: NetName=CAN_SCK Pin=CAN Controller-14
+Removed Pin From Net: NetName=CAN_MOSI Pin=CAN Controller-16
+Removed Pin From Net: NetName=CAN_MISO Pin=CAN Controller-17
+Removed Pin From Net: NetName=CAN_CS Pin=CAN Controller-18
+Removed Pin From Net: NetName=VCC Pin=CAN Controller-20
+Removed Pin From Net: NetName=CAN_TX Pin=CAN Transciever-1
+Removed Pin From Net: NetName=GND Pin=CAN Transciever-2
+Removed Pin From Net: NetName=VCC Pin=CAN Transciever-3
+Removed Pin From Net: NetName=CAN_RX Pin=CAN Transciever-4
+Removed Pin From Net: NetName=CANL Pin=CAN Transciever-6
+Removed Pin From Net: NetName=CANH Pin=CAN Transciever-7
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=CAN Controller
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=CAN Transciever
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=R10
+Change Component Designator: OldDesignator=Term Res NewDesignator=TermRes
+Added Component: Designator=10k(VISH-A1-2_V2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/28729/28729.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.vishay.com/docs/28729/28729.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial Lead, Body 10 x 3.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PR02000206202JA100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "2 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "62 KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "+/-250 ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "+/-5%"; VariantName = "[No Variations]"
+Added Component: Designator=CAN_Cont_Trans(FP-C04-073-IPC_B)
+Add component (AddParameter): Name = "Case/Package"; Value = "SSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "1Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Transceivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "70mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Propagation Delay"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receiver Hysteresis"; Value = "200mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.080001oz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=10k-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=CAN_Cont_Trans-1
+Added Pin To Net: NetName=CANL Pin=CAN_Cont_Trans-3
+Added Pin To Net: NetName=CANH Pin=CAN_Cont_Trans-4
+Added Pin To Net: NetName=GND Pin=CAN_Cont_Trans-10
+Added Pin To Net: NetName=CAN_INT Pin=CAN_Cont_Trans-13
+Added Pin To Net: NetName=CAN_SCK Pin=CAN_Cont_Trans-14
+Added Pin To Net: NetName=CAN_MOSI Pin=CAN_Cont_Trans-15
+Added Pin To Net: NetName=CAN_MISO Pin=CAN_Cont_Trans-16
+Added Pin To Net: NetName=CAN_CS Pin=CAN_Cont_Trans-17
+Added Pin To Net: NetName=VCC Pin=CAN_Cont_Trans-19
+Added Pin To Net: NetName=CAN_TX Pin=CAN_Cont_Trans-20
+Added Pin To Net: NetName=CAN_RX Pin=CAN_Cont_Trans-21
+Added Pin To Net: NetName=CAN_TX Pin=CAN_Cont_Trans-24
+Added Pin To Net: NetName=GND Pin=CAN_Cont_Trans-26
+Added Pin To Net: NetName=VCC Pin=CAN_Cont_Trans-27
+Added Pin To Net: NetName=CAN_RX Pin=CAN_Cont_Trans-28
+Added Pin To Net: NetName=Net10k_2 Pin=10k-2
+Added Pin To Net: NetName=Net10k_2 Pin=CAN_Cont_Trans-18
+Added Net: Name=Net10k_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=CAN_Cont_Trans-9
+Added Pin To Net: NetName=NetC4_1 Pin=Y2-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=CAN_Cont_Trans-8
+Added Pin To Net: NetName=NetC5_1 Pin=Y2-1
+Added Net: Name=NetC5_1
+Added Member To Class: ClassName=Microprocessor Module (328) Member=Component 10k
+Added Member To Class: ClassName=Microprocessor Module (328) Member=Component CAN_Cont_Trans MCP25625T-E/SS
+Added Member To Class: ClassName=Microprocessor Module (328) Member=Component TermRes 120R
+Added Room: Name=Microprocessor Module (328)
