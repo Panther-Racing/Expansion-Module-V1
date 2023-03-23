@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NetMPU_29 Pin=ICSP-05
+Change Net Name : Old Net Name=NetMPU_29 New Net Name=RESET

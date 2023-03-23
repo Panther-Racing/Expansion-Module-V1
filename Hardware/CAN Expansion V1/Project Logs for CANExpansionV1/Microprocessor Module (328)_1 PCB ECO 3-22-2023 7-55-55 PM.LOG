@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RESET Pin=Serial Prog-1
+Removed Pin From Net: NetName=D1 Pin=Serial Prog-2
+Removed Pin From Net: NetName=D0 Pin=Serial Prog-3
+Removed Pin From Net: NetName=VCC Pin=Serial Prog-4
+Removed Pin From Net: NetName=GND Pin=Serial Prog-6
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Serial Prog
+Added Member To Class: ClassName=Microprocessor Module (328) Member=Component CAN TSW-104-07-F-S

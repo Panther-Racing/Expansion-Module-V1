@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VCC Pin=CAN-01
+Removed Pin From Net: NetName=D0 Pin=Spare-01
+Removed Pin From Net: NetName=D1 Pin=Spare-02
+Removed Pin From Net: NetName=D2 Pin=Spare-03
+Removed Pin From Net: NetName=D3 Pin=Spare-04
+Removed Pin From Net: NetName=D4 Pin=Spare-05
+Removed Pin From Net: NetName=D5 Pin=Spare-06
+Removed Pin From Net: NetName=D6 Pin=Spare-07
+Removed Pin From Net: NetName=D7 Pin=Spare-08
+Removed Pin From Net: NetName=D8 Pin=Spare-09
+Removed Pin From Net: NetName=D9 Pin=Spare-10
+Removed Pin From Net: NetName=A0 Pin=Spare-11
+Removed Pin From Net: NetName=A1 Pin=Spare-12
+Removed Pin From Net: NetName=A2 Pin=Spare-13
+Removed Pin From Net: NetName=A3 Pin=Spare-14
+Removed Pin From Net: NetName=GND Pin=Spare-17
+Removed Pin From Net: NetName=GND Pin=Spare-18
+Removed Pin From Net: NetName=VCC Pin=Spare-19
+Removed Pin From Net: NetName=VCC Pin=Spare-20
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Spare
+Added Pin To Net: NetName=PWR IN Pin=5v0 Reg-1
+Added Pin To Net: NetName=PWR IN Pin=CAN-01
+Added Net: Name=PWR IN

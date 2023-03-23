@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CANH Pin=CAN TR-1
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=CAN TR
+Added Component: Designator=CAN_TR(SMT-JUMPER_2_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANH Pin=CAN_TR-1
+Added Pin To Net: NetName=NetCAN_TR_2 Pin=CAN_TR-2
+Added Pin To Net: NetName=NetCAN_TR_2 Pin=TermRes-2
+Added Net: Name=NetCAN_TR_2
+Added Member To Class: ClassName=Microprocessor Module (328) Member=Component CAN_TR
