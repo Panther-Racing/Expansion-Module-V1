@@ -1,0 +1,142 @@
+Removed Pin From Net: NetName=GND Pin=3v3 Reg-1
+Removed Pin From Net: NetName=VCC Pin=3v3 Reg-3
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=CANL Pin=CAN-1
+Removed Pin From Net: NetName=CANH Pin=CAN-2
+Removed Pin From Net: NetName=VCC Pin=Left Comms-1
+Removed Pin From Net: NetName=CS Pin=Left Comms-2
+Removed Pin From Net: NetName=CAN_SCK Pin=Left Comms-3
+Removed Pin From Net: NetName=CAN_MOSI Pin=Left Comms-4
+Removed Pin From Net: NetName=CAN_MISO Pin=Left Comms-5
+Removed Pin From Net: NetName=GND Pin=Left Comms-6
+Removed Pin From Net: NetName=GND Pin=Power In-1
+Removed Pin From Net: NetName=RESET Pin=Serial Prog-1
+Removed Pin From Net: NetName=VCC Pin=Serial Prog-4
+Removed Pin From Net: NetName=GND Pin=Serial Prog-6
+Removed Pin From Net: NetName=D2 Pin=Spare-03
+Removed Pin From Net: NetName=A0 Pin=Spare-11
+Removed Pin From Net: NetName=A1 Pin=Spare-12
+Removed Pin From Net: NetName=A2 Pin=Spare-13
+Removed Pin From Net: NetName=A3 Pin=Spare-14
+Removed Pin From Net: NetName=GND Pin=Spare-17
+Removed Pin From Net: NetName=GND Pin=Spare-18
+Removed Pin From Net: NetName=VCC Pin=Spare-19
+Removed Pin From Net: NetName=VCC Pin=Spare-20
+Removed Pin From Net: NetName=CAN_MISO Pin=SPI-01
+Removed Pin From Net: NetName=CAN_MISO Pin=SPI-02
+Removed Pin From Net: NetName=CAN_MOSI Pin=SPI-03
+Removed Pin From Net: NetName=CAN_MOSI Pin=SPI-04
+Removed Pin From Net: NetName=CAN_SCK Pin=SPI-05
+Removed Pin From Net: NetName=CAN_SCK Pin=SPI-06
+Removed Pin From Net: NetName=CANH Pin=TermRes-2
+Removed Pin From Net: NetName=CANL Pin=Term Res-2
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=3v3 Reg
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=CAN
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Left Comms
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Power In
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Right Comms
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Serial Prog
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Spare
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=SPI
+Removed Member From Class: ClassName=Microprocessor Module (328) Member=Term Res
+Added Component: Designator=C3(FP-GRM21B-0_15-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.053inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=CAN_TR(SMT-JUMPER_2_NO_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NO_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NO"; VariantName = "[No Variations]"
+Added Component: Designator=CAN Con.(SAMTEC_TSW-104-07-F-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SENS-1(SAMTEC_TSW-103-07-F-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SENS-2(SAMTEC_TSW-103-07-F-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SENS-3(SAMTEC_TSW-103-07-F-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SENS-4(SAMTEC_TSW-103-07-F-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-07-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=CANH Pin=CAN_TR-1
+Added Pin To Net: NetName=GND Pin=CAN Con.-02
+Added Pin To Net: NetName=CANL Pin=CAN Con.-03
+Added Pin To Net: NetName=CANH Pin=CAN Con.-04
+Added Pin To Net: NetName=CS Pin=CAN CS-1
+Added Pin To Net: NetName=GND Pin=SENS-1-01
+Added Pin To Net: NetName=A0 Pin=SENS-1-02
+Added Pin To Net: NetName=VCC Pin=SENS-1-03
+Added Pin To Net: NetName=GND Pin=SENS-2-01
+Added Pin To Net: NetName=A1 Pin=SENS-2-02
+Added Pin To Net: NetName=VCC Pin=SENS-2-03
+Added Pin To Net: NetName=GND Pin=SENS-3-01
+Added Pin To Net: NetName=A2 Pin=SENS-3-02
+Added Pin To Net: NetName=VCC Pin=SENS-3-03
+Added Pin To Net: NetName=GND Pin=SENS-4-01
+Added Pin To Net: NetName=A3 Pin=SENS-4-02
+Added Pin To Net: NetName=VCC Pin=SENS-4-03
+Added Pin To Net: NetName=CANL Pin=TermRes-1
+Added Pin To Net: NetName=NetCAN_TR_2 Pin=CAN_TR-2
+Added Pin To Net: NetName=NetCAN_TR_2 Pin=TermRes-2
+Added Net: Name=NetCAN_TR_2
+Added Pin To Net: NetName=PWR IN Pin=5v0 Reg-1
+Added Pin To Net: NetName=PWR IN Pin=CAN Con.-01
+Added Net: Name=PWR IN
+Change Class Name : Old Net Name=Microprocessor Module (328) New Net Name=CAN Expansion V1
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component CAN_TR
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component CAN Con. TSW-104-07-F-S
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component SENS-1 TSW-103-07-F-S
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component SENS-2 TSW-103-07-F-S
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component SENS-3 TSW-103-07-F-S
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component SENS-4 TSW-103-07-F-S
+Added Room: Name=CAN Expansion V1

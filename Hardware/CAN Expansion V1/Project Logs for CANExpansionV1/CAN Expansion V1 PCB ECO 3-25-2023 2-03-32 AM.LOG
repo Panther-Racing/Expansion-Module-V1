@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=SW? NewDesignator=RES
+Added Pin To Net: NetName=RESET Pin=RES-2
+Added Pin To Net: NetName=GND Pin=RES-4

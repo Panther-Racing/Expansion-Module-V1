@@ -1,0 +1,24 @@
+Importer Log Report
+Project : SparkFun-Switches.Library.PrjPcb
+
+Section : Analyze Document - C:\Users\patmu\Downloads\SparkFun-Eagle-Libraries-main\SparkFun-Eagle-Libraries-main\SparkFun-Switches.lbr
+    Analyzing data of C:\Users\patmu\Downloads\SparkFun-Eagle-Libraries-main\SparkFun-Eagle-Libraries-main\SparkFun-Switches.lbr
+    Load settings
+    Load layers 141
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 68
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 26
+    Load DeviceSets 28
+EndSection

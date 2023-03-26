@@ -1,0 +1,21 @@
+Added Component: Designator=U?(TO-252_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000444.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16/11/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL_ECS-080-20-5PX-TR
+Add Component: Footprint Not Found XTAL_ECS-080-20-5PX-TR
+Added Pin To Net: NetName=PWR IN Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component U? L7805CDT-TR
+Add Class Member: Failed to add class member : Component Y1 16MHz
+Add Class Member: Failed to add class member : Component Y2 8MHz
