@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component 5V L7805CDT-TR
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component C1 22pf
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component C2 22pf
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component C4 27pf
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component C5 27pf
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component CAN_CS
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component Y2 ABM3-8.000MHZ-D2Y-T
+Added Room: Name=CAN Expansion V1

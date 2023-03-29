@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=CAN_CS Old Footprint=SMT-JUMPER_2_NC_TRACE_NO-SILK New Footprint=SMT-JUMPER_2_NO_SILK
+Change Component Footprint: Designator=CAN_INT Old Footprint=SMT-JUMPER_2_NC_TRACE_NO-SILK New Footprint=SMT-JUMPER_2_NO_SILK
+Change component parameters: Designator = "CAN_CS" ("CAN_CS"); Footprint = "SMT-JUMPER_2_NC_TRACE_NO-SILK"; UniqueID = "\BHTDYFBJ" ("\BHTDYFBJ")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NO_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CAN_INT" ("CAN_INT"); Footprint = "SMT-JUMPER_2_NC_TRACE_NO-SILK"; UniqueID = "\YTUZVCQA" ("\YTUZVCQA")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NO_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NO"; VariantName = "[No Variations]"

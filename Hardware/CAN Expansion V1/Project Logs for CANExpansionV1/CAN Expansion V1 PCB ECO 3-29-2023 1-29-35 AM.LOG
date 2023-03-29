@@ -1,0 +1,14 @@
+Added Component: Designator=JP?(COMBO-JUMPER_2_NC_TRACE)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-COMBO_2_NC_TRACE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "JP1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "COMBO-JUMPER_2_NC_TRACE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NC_TRACE-1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJP?_1,3 Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_1,3 Pin=JP?-3
+Added Net: Name=NetJP?_1,3
+Added Pin To Net: NetName=NetJP?_2,4 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_2,4 Pin=JP?-4
+Added Net: Name=NetJP?_2,4
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component JP? JUMPER-COMBO_2_NC_TRACE
