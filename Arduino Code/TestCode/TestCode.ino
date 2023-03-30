@@ -3,7 +3,7 @@
 
 #include <SPI.h>
 
-const int CSpin=10;
+const int CSpin=8;
 
 void setup()
 {
@@ -43,7 +43,7 @@ void loop()
     NormalMode();
 
   }
-  delay(50000);// just a timer to stop annoying repetition for absurd time
+  delay(5000);// just a timer to stop annoying repetition for absurd time
 }
 
 
