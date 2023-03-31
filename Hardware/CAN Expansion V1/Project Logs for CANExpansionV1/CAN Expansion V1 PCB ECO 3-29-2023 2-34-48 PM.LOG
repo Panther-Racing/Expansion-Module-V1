@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CAN_MISO Pin=SPI-01
+Removed Pin From Net: NetName=CAN_MISO Pin=SPI-02
+Removed Pin From Net: NetName=CAN_MOSI Pin=SPI-03
+Removed Pin From Net: NetName=CAN_MOSI Pin=SPI-04
+Removed Pin From Net: NetName=CAN_SCK Pin=SPI-05
+Removed Pin From Net: NetName=CAN_SCK Pin=SPI-06
+Removed Member From Class: ClassName=CAN Expansion V1 Member=SPI
+Added Component: Designator=Serial Prog(SAMTEC-TSW-106-07-X-S)
+Added Pin To Net: NetName=RESET Pin=Serial Prog-1
+Added Pin To Net: NetName=VCC Pin=Serial Prog-4
+Added Pin To Net: NetName=GND Pin=Serial Prog-6
+Added Pin To Net: NetName=D0 Pin=MPU-30
+Added Pin To Net: NetName=D0 Pin=Serial Prog-3
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=MPU-31
+Added Pin To Net: NetName=D1 Pin=Serial Prog-2
+Added Net: Name=D1
+Added Member To Class: ClassName=CAN Expansion V1 Member=Component Serial Prog SAMTEC-TSW-106-07-X-SJ

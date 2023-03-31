@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
-Date     : 3/29/2023
-Time     : 2:22:48 AM
+Date     : 3/30/2023
+Time     : 11:22:02 PM
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -51,13 +51,14 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room CAN Expansion V1 (Bounding Region = (0mm, 0mm, 34mm, 29.75mm) (InComponentClass('CAN Expansion V1'))
-Rule Violations :0
+Processing Rule : Room CAN Expansion V1 (Bounding Region = (0mm, 0mm, 35.5mm, 29.75mm) (InComponentClass('CAN Expansion V1'))
+   Violation between Room Definition: Between Room CAN Expansion V1 (Bounding Region = (0mm, 0mm, 35.5mm, 29.75mm) (InComponentClass('CAN Expansion V1')) And SIP Component Serial Prog-SAMTEC-TSW-106-07-X-SJ (17.02mm,2.75mm) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
