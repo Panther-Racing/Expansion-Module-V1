@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
-Date     : 3/30/2023
-Time     : 11:22:02 PM
+PCB File : D:\PittFSAE\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Date     : 07/04/2023
+Time     : 22:34:09
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -61,4 +61,4 @@ Rule Violations :0
 
 Violations Detected : 1
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
