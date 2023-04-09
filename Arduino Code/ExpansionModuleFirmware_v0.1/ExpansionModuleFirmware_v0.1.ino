@@ -41,7 +41,13 @@ MCP_CAN CAN0(10);     // Set CS to pin 10
   uint8_t counter=0x00; // coms loss check
 
 
-  uint8_t CAN_ID  = 0xf0;// Device CAN ID
+  uint16_t CAN_ID  = 0x702;// Device CAN ID
+  /*
+FR-x700
+FL-x701
+RR-x702
+RL-x703
+  */
 
 
   unsigned long previousMillis = 0;  // will store last time LED was updated
@@ -75,7 +81,6 @@ void loop()
   DPos=analogRead(A1);
   SlpAgl=analogRead(A2);
   Aux=analogRead(A3);
-  
   // debugging lines
   /*
   Serial.println("BrkTmp");  
@@ -120,6 +125,7 @@ void loop()
     counter=0;
     }
     byte sndStat = CAN0.sendMsgBuf(CAN_ID, 0, 8, data);
+    /*
     if(sndStat == CAN_OK)
     {
       Serial.println("Message Sent Successfully!");
@@ -128,6 +134,7 @@ void loop()
     {
       Serial.println("Error Sending Message...");
     }
+    */
   //delay(50);   // send data per 100ms
   }
   
