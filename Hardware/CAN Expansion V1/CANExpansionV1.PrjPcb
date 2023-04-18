@@ -202,40 +202,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=GerberFile.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=NCDrillFile.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
 DocumentPath=CAN Expansion V1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHFLHEMG
 
-[Document13]
+[Document11]
 DocumentPath=CANExpansionV1.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=Libraries\Crystal Library\CrystalsFootprint.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIVVXURM
 
-[Document15]
+[Document13]
 DocumentPath=Libraries\W5500.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=Libraries\B3FS-4002P\B3FS4002P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=Libraries\B3FS-4002P\B3FS-4002P.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,115 +304,135 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for CANExpansionV1\Design Rule Check - CAN Expansion V1.html
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for li.tel VTM\Design Rule Check - Microprocessor Module (328)_1.html
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.DRR
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.EXTREP
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GBL
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GBO
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GBS
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GKO
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM1
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM2
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM3
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM5
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM13
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM15
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM16
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM24
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM40
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GM42
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GPB
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GPT
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GTL
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GTO
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM40
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GTP
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GM42
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.GTS
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.LDP
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.REP
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.RUL
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for li.tel VTM\Microprocessor Module (328)_1.TXT
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for CANExpansionV1\CAN Expansion V1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -692,71 +678,195 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Pitt B&W Print Station
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
-Configuration1_Name1=ForceUpdateSettings
-Configuration1_Item1=False
-Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\perih\Desktop\li.tel-VTM\Hardware\li.tel-VTM_V3\Microprocessor Module (328)_1.PcbDoc
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=IPC2581
-OutputName3=IPC-2581 Files
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
-OutputType4=Test Points
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=Plane
-OutputName5=Power-Plane Prints
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Drill
-OutputName7=Drill Drawing/Guides
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=CompositeDrill
-OutputName8=Composite Drill Drawing
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=5.99|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration7_Name1=ForceUpdateSettings
+Configuration7_Item1=False
+Configuration7_Name2=OutputConfigurationParameter1
+Configuration7_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name3=OutputConfigurationParameter2
+Configuration7_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top Paste Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name4=OutputConfigurationParameter3
+Configuration7_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopPaste|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name5=OutputConfigurationParameter4
+Configuration7_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name6=OutputConfigurationParameter5
+Configuration7_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name7=OutputConfigurationParameter6
+Configuration7_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name8=OutputConfigurationParameter7
+Configuration7_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical7|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name9=OutputConfigurationParameter8
+Configuration7_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name10=OutputConfigurationParameter9
+Configuration7_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name11=OutputConfigurationParameter10
+Configuration7_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name12=OutputConfigurationParameter11
+Configuration7_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name13=OutputConfigurationParameter12
+Configuration7_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name14=OutputConfigurationParameter13
+Configuration7_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical23|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name15=OutputConfigurationParameter14
+Configuration7_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name16=OutputConfigurationParameter15
+Configuration7_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical40|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name17=OutputConfigurationParameter16
+Configuration7_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical42|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name18=OutputConfigurationParameter17
+Configuration7_Item18=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Bottom Paste Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name19=OutputConfigurationParameter18
+Configuration7_Item19=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomPaste|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name20=OutputConfigurationParameter19
+Configuration7_Item20=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name21=OutputConfigurationParameter20
+Configuration7_Item21=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name22=OutputConfigurationParameter21
+Configuration7_Item22=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name23=OutputConfigurationParameter22
+Configuration7_Item23=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical7|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name24=OutputConfigurationParameter23
+Configuration7_Item24=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name25=OutputConfigurationParameter24
+Configuration7_Item25=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name26=OutputConfigurationParameter25
+Configuration7_Item26=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name27=OutputConfigurationParameter26
+Configuration7_Item27=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name28=OutputConfigurationParameter27
+Configuration7_Item28=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name29=OutputConfigurationParameter28
+Configuration7_Item29=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical23|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name30=OutputConfigurationParameter29
+Configuration7_Item30=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name31=OutputConfigurationParameter30
+Configuration7_Item31=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical40|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name32=OutputConfigurationParameter31
+Configuration7_Item32=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical42|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name33=OutputConfigurationParameter32
+Configuration7_Item33=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=2|Mirror=False|Name=Top Solder Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name34=OutputConfigurationParameter33
+Configuration7_Item34=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopSolder|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name35=OutputConfigurationParameter34
+Configuration7_Item35=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name36=OutputConfigurationParameter35
+Configuration7_Item36=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name37=OutputConfigurationParameter36
+Configuration7_Item37=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name38=OutputConfigurationParameter37
+Configuration7_Item38=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical7|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name39=OutputConfigurationParameter38
+Configuration7_Item39=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name40=OutputConfigurationParameter39
+Configuration7_Item40=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name41=OutputConfigurationParameter40
+Configuration7_Item41=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name42=OutputConfigurationParameter41
+Configuration7_Item42=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name43=OutputConfigurationParameter42
+Configuration7_Item43=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name44=OutputConfigurationParameter43
+Configuration7_Item44=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical23|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name45=OutputConfigurationParameter44
+Configuration7_Item45=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name46=OutputConfigurationParameter45
+Configuration7_Item46=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical40|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name47=OutputConfigurationParameter46
+Configuration7_Item47=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical42|Polygon=Full|PrintOutIndex=2|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name48=OutputConfigurationParameter47
+Configuration7_Item48=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=3|Mirror=False|Name=Bottom Solder Mask Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name49=OutputConfigurationParameter48
+Configuration7_Item49=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomSolder|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name50=OutputConfigurationParameter49
+Configuration7_Item50=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name51=OutputConfigurationParameter50
+Configuration7_Item51=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name52=OutputConfigurationParameter51
+Configuration7_Item52=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical5|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name53=OutputConfigurationParameter52
+Configuration7_Item53=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical7|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name54=OutputConfigurationParameter53
+Configuration7_Item54=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name55=OutputConfigurationParameter54
+Configuration7_Item55=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name56=OutputConfigurationParameter55
+Configuration7_Item56=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name57=OutputConfigurationParameter56
+Configuration7_Item57=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical20|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name58=OutputConfigurationParameter57
+Configuration7_Item58=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical21|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name59=OutputConfigurationParameter58
+Configuration7_Item59=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical23|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name60=OutputConfigurationParameter59
+Configuration7_Item60=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical24|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name61=OutputConfigurationParameter60
+Configuration7_Item61=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical40|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+Configuration7_Name62=OutputConfigurationParameter61
+Configuration7_Item62=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical42|Polygon=Full|PrintOutIndex=3|Record=PcbPrintLayer|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Board Stack Report
-OutputName9=Report Board Stack
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Gerber X2
-OutputName10=Gerber X2 Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Final
-OutputName11=Final Artwork Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -765,7 +875,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908303~1,16908304~1,16908312~1,16908328~1,16908330~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|DocumentPath=C:\Users\perih\Desktop\li.tel-VTM\Hardware\li.tel-VTM_V3\Microprocessor Module (328)_1.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=YHFLHEMG|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908290~1,16908291~1,16908293~1,16908301~1,16908303~1,16908304~1,16908312~1,16908328~1,16908330~1,16973848~1,16973849~1,16973833~1,16908295~1,16908308~1,16908309~1,16908311~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=CAN Expansion V1.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=CAN Expansion V1.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=CAN Expansion V1.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|UserLayerName.Caption0=CAN Expansion V1.GM23|UserLayerName.Caption1=CAN Expansion V1.GTP|UserLayerName.Caption10=CAN Expansion V1.GM42|UserLayerName.Caption11=CAN Expansion V1.GBL|UserLayerName.Caption12=CAN Expansion V1.GM5|UserLayerName.Caption13=CAN Expansion V1.GM15|UserLayerName.Caption14=CAN Expansion V1.GTL|UserLayerName.Caption15=CAN Expansion V1.GBO|UserLayerName.Caption16=CAN Expansion V1.GM40|UserLayerName.Caption17=CAN Expansion V1.GPT|UserLayerName.Caption18=CAN Expansion V1.GM13|UserLayerName.Caption19=CAN Expansion V1.GM21|UserLayerName.Caption2=CAN Expansion V1.GTO|UserLayerName.Caption20=CAN Expansion V1.GM1|UserLayerName.Caption21=CAN Expansion V1.GM24|UserLayerName.Caption22=CAN Expansion V1.GM3|UserLayerName.Caption23=CAN Expansion V1.GM20|UserLayerName.Caption24=CAN Expansion V1.GBP|UserLayerName.Caption3=CAN Expansion V1.GTS|UserLayerName.Caption4=CAN Expansion V1.GPB|UserLayerName.Caption5=CAN Expansion V1.GM2|UserLayerName.Caption6=CAN Expansion V1.GKO|UserLayerName.Caption7=CAN Expansion V1.GM7|UserLayerName.Caption8=CAN Expansion V1.GM16|UserLayerName.Caption9=CAN Expansion V1.GBS|UserLayerName.Count=25|UserLayerName.Layer0=16908311|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908330|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908293|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973831|UserLayerName.Layer16=16908328|UserLayerName.Layer17=16973848|UserLayerName.Layer18=16908301|UserLayerName.Layer19=16908309|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908289|UserLayerName.Layer21=16908312|UserLayerName.Layer22=16908291|UserLayerName.Layer23=16908308|UserLayerName.Layer24=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16973849|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16908295|UserLayerName.Layer8=16908304|UserLayerName.Layer9=16973835|DocumentPath=C:\Users\patmu\Documents\GitHub\Expansion-Module-V1\Hardware\CAN Expansion V1\CAN Expansion V1.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

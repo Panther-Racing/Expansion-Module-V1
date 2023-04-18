@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CANExpansionV1.PrjPcb]
+   Generated File[CAN Expansion V1.TXT]
+   Generated File[CAN Expansion V1.LDP]
+   Generated File[CAN Expansion V1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:40:01 PM On 4/17/2023

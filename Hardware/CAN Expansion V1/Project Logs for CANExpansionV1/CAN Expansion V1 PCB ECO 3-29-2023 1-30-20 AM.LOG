@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=JP? Old Footprint=COMBO-JUMPER_2_NC_TRACE New Footprint=SMT-JUMPER_2_NC_PASTE_NO-SILK
-Change Component Comment : Designator=JP? Old Comment=JUMPER-COMBO_2_NC_TRACE New Comment=Normally closed solder jumper    This jumper has an aperture in the stencil to allow solder paste to bridge the split in the wire so it's normally closed (NC). Wick off the solder to open the connection. Reapply solder to reclose the connection.
-Change component parameters: Designator = "JP?" ("JP?"); Footprint = "COMBO-JUMPER_2_NC_TRACE"; UniqueID = "\ZZQCAJXM" ("\ZZQCAJXM")
-Change component parameters (AddParameter): Name = "DeviceName"; Value = "_NO-SILK"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_2_NC_PASTE"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_2_NC_PASTE_NO-SILK"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_2_NC_PASTE"; VariantName = "[No Variations]"
