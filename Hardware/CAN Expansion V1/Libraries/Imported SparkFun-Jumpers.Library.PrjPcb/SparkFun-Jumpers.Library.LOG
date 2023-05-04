@@ -1,0 +1,33 @@
+Importer Log Report
+Project : SparkFun-Jumpers.Library.PrjPcb
+
+Section : Analyze Document - C:\Users\patmu\Downloads\SparkFun-Eagle-Libraries-main\SparkFun-Eagle-Libraries-main\SparkFun-Jumpers.lbr
+    Analyzing data of C:\Users\patmu\Downloads\SparkFun-Eagle-Libraries-main\SparkFun-Eagle-Libraries-main\SparkFun-Jumpers.lbr
+    Load settings
+    Load layers 147
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 20
+    ERROR: Unhandled typepackages3d
+    Load Symbols 9
+    Load DeviceSets 10
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+EndSection
