@@ -2,16 +2,6 @@
 FileName = CAN Expansion V1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : CAN Expansion V1.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Bottom 3D Body
       File : CAN Expansion V1.GM23
 
@@ -78,119 +68,90 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Component Center
-      File : CAN Expansion V1.GM24
+Generating : Top Pad Master
+      File : CAN Expansion V1.GPT
 
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : CAN Expansion V1.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D62
-    D64
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : CAN Expansion V1.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D62
-    D63
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : CAN Expansion V1.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : CAN Expansion V1.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : CAN Expansion V1.GM3
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : CAN Expansion V1.GM2
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : CAN Expansion V1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
     D19
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
+    D20
+    D38
+    D39
+    D40
+    D41
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : CAN Expansion V1.GBO
+Generating : Top Overlay
+      File : CAN Expansion V1.GTO
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
+    D11
     D12
-    D60
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CAN Expansion V1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CAN Expansion V1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
 *************************************************************
 
 *************************************************************
@@ -225,90 +186,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : CAN Expansion V1.GTS
+Generating : Bottom Overlay
+      File : CAN Expansion V1.GBO
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : CAN Expansion V1.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : CAN Expansion V1.GTO
-
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-    D11
     D12
-    D13
+    D60
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : CAN Expansion V1.GPT
+Generating : Bottom Paste
+      File : CAN Expansion V1.GBP
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
     D19
-    D20
-    D38
-    D39
-    D40
-    D41
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -334,6 +244,74 @@ Used DCodes :
     D50
     D51
     D52
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : CAN Expansion V1.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : CAN Expansion V1.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D62
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : CAN Expansion V1.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : CAN Expansion V1.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : CAN Expansion V1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : CAN Expansion V1.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D62
 *************************************************************
 
 *************************************************************
@@ -392,6 +370,29 @@ Used DCodes :
     D42
     D43
     D44
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : CAN Expansion V1.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : CAN Expansion V1.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D62
 *************************************************************
 
 *************************************************************

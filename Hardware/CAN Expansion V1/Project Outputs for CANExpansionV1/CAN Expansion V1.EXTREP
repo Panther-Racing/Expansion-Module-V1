@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: CAN Expansion V1.GBR   4/17/2023  7:39:28 PM
+Gerber File Extension Report For: CAN Expansion V1.GBR   15/08/2023  19:49:40
 ------------------------------------------------------------------------------------------
 
 
@@ -14,7 +14,6 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
 .GM2                Top 3D Body                             
 .GM3                Top Courtyard                           
 .GM5                Top Assembly                            
@@ -28,6 +27,7 @@ Layer Extension     Layer Description
 .GM24               Bottom Component Center                 
 .GM40               Mechanical 40                           
 .GM42               Mechanical 42                           
+.GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
